@@ -71,7 +71,7 @@ II. Installation Instructions:
         add the following line to the file:  
                CLASSPATH =.:~/javalib     
                
-        Here, the ‘:’ character separates folder names.  The command 
+        Here, the ï¿½:ï¿½ character separates folder names.  The command 
         therefore says that the folder "." (i.e., your current diretory) 
         and "~/javalib" are to be searched whenever Java needs to find a 
         class.  If the file already contains a CLASSPATH setting, modify 
@@ -83,7 +83,7 @@ II. Installation Instructions:
         a user variable named CLASSPATH that looks like this:
                .;C:\javalib
                
-        Here, the ‘;’ character separates the two folder names.
+        Here, the ï¿½;ï¿½ character separates the two folder names.
 
   5)  Copy the simpledb folder from the distribution file to that
       folder. Within the simpledb folder should be subfolders 
@@ -111,7 +111,7 @@ III. Running the Server:
   one will be created automatically.
  
   If everything is working correctly, when you run the server with a
-  new database folder the following will be printed in the server’s 
+  new database folder the following will be printed in the serverï¿½s 
   window:
 
       creating new database
