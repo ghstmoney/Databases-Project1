@@ -11,8 +11,6 @@ public class TestSchema {
             conn = d.connect("jdbc:simpledb://localhost", null);
             Statement stmt = conn.createStatement();
 
-            String sql2 = "DROP TABLE OWNER CASCADE";
-            stmt.executeQuery(sql2);
 
             String s = "create table DOG(DId int, DName varchar(20), BName varchar(20), Age int)";
             stmt.executeUpdate(s);
