@@ -1,538 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692354c1-8f0b-4c73-9ac2-c703f94af1ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-22.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-23.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index-files/index-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/BasicBufferMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/BasicBufferMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/Buffer.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/Buffer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/BufferAbortException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/BufferAbortException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/BufferMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/BufferMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/PageFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/PageFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BasicBufferMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BasicBufferMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/Buffer.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/Buffer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BufferAbortException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BufferAbortException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BufferMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/BufferMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/PageFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/class-use/PageFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/buffer/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/Block.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/Block.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/FileMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/FileMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/Page.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/Page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/Block.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/Block.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/FileMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/FileMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/Page.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/class-use/Page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/file/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/file/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTPageFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTPageFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeDir.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeDir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeLeaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreeLeaf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/BTreePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/DirEntry.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/DirEntry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTPageFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTPageFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeDir.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeDir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeLeaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreeLeaf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/BTreePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/DirEntry.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/class-use/DirEntry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/btree/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/class-use/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/class-use/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/HashIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/HashIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/class-use/HashIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/class-use/HashIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/hash/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/IndexUpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/IndexUpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/class-use/IndexUpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/class-use/IndexUpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/planner/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexJoinPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexJoinPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexJoinScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexJoinScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexSelectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexSelectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexSelectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/IndexSelectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexJoinPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexJoinPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexJoinScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexJoinScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexSelectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexSelectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexSelectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/class-use/IndexSelectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/index/query/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/BasicLogRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/BasicLogRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/LogIterator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/LogIterator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/LogMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/LogMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/BasicLogRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/BasicLogRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/LogIterator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/LogIterator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/LogMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/class-use/LogMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/log/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/log/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/AggregationFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/AggregationFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/CountFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/CountFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupByPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupByPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupByScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupByScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupValue.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/GroupValue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/MaterializePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/MaterializePlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/MaxFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/MaxFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/MergeJoinPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/MergeJoinPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/MergeJoinScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/MergeJoinScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/RecordComparator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/RecordComparator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/SortPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/SortPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/SortScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/SortScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/TempTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/TempTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/AggregationFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/AggregationFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/CountFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/CountFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupByPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupByPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupByScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupByScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupValue.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/GroupValue.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MaterializePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MaterializePlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MaxFn.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MaxFn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MergeJoinPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MergeJoinPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MergeJoinScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/MergeJoinScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/RecordComparator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/RecordComparator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/SortPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/SortPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/SortScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/SortScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/TempTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/class-use/TempTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/materialize/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/IndexInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/IndexInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/IndexMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/IndexMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/MetadataMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/MetadataMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/StatInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/StatInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/StatMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/StatMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/TableMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/TableMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/ViewMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/ViewMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/IndexInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/IndexInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/IndexMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/IndexMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/MetadataMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/MetadataMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/StatInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/StatInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/StatMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/StatMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/TableMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/TableMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/ViewMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/class-use/ViewMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/metadata/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/BufferNeeds.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/BufferNeeds.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/ChunkScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/ChunkScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/MultiBufferProductPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/MultiBufferProductPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/MultiBufferProductScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/MultiBufferProductScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/BufferNeeds.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/BufferNeeds.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/ChunkScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/ChunkScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/MultiBufferProductPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/MultiBufferProductPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/MultiBufferProductScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/class-use/MultiBufferProductScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/multibuffer/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/HeuristicQueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/HeuristicQueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/TablePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/TablePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/class-use/HeuristicQueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/class-use/HeuristicQueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/class-use/TablePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/class-use/TablePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/opt/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/opt/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/BadSyntaxException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/BadSyntaxException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateIndexData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateIndexData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateTableData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateTableData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateViewData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/CreateViewData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/DeleteData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/DeleteData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/InsertData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/InsertData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/Lexer.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/Lexer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/ModifyData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/ModifyData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/Parser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/QueryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/QueryData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/BadSyntaxException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/BadSyntaxException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateIndexData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateIndexData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateTableData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateTableData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateViewData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/CreateViewData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/DeleteData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/DeleteData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/InsertData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/InsertData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/Lexer.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/Lexer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/ModifyData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/ModifyData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/Parser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/QueryData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/class-use/QueryData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/parse/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/parse/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/BasicQueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/BasicQueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/BasicUpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/BasicUpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/Planner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/Planner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/QueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/QueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/UpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/UpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/BasicQueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/BasicQueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/BasicUpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/BasicUpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/Planner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/Planner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/QueryPlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/QueryPlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/UpdatePlanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/class-use/UpdatePlanner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/planner/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/planner/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Constant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/ConstantExpression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/ConstantExpression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Expression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Expression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/FieldNameExpression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/FieldNameExpression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/IntConstant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/IntConstant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Plan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Predicate.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Predicate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/ProductPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/ProductPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/ProductScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/ProductScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/ProjectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/ProjectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/ProjectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/ProjectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Scan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Scan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/SelectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/SelectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/SelectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/SelectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/StringConstant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/StringConstant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/TablePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/TablePlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/TableScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/TableScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/Term.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/Term.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/UpdateScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/UpdateScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Constant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Constant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ConstantExpression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ConstantExpression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Expression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Expression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/FieldNameExpression.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/FieldNameExpression.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/IntConstant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/IntConstant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Plan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Predicate.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Predicate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProductPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProductPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProductScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProductScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProjectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProjectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProjectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/ProjectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Scan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Scan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/SelectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/SelectPlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/SelectScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/SelectScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/StringConstant.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/StringConstant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/TablePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/TablePlan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/TableScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/TableScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Term.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/Term.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/UpdateScan.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/class-use/UpdateScan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/query/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/query/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/RID.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/RID.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/RecordFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/RecordFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/RecordFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/RecordFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/RecordPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/RecordPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/Schema.FieldInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/Schema.FieldInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/Schema.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/Schema.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/TableInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/TableInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RID.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RID.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordFormatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordFormatter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/RecordPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/Schema.FieldInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/Schema.FieldInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/Schema.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/Schema.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/TableInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/class-use/TableInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/record/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/record/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/ConnectionAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/ConnectionAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/DriverAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/DriverAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteConnection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteConnectionImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteConnectionImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteDriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteDriverImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteDriverImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteMetaData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteMetaData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteMetaDataImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteMetaDataImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteResultSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteResultSet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteResultSetImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteResultSetImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteStatement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteStatementImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/RemoteStatementImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/ResultSetAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/ResultSetAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/ResultSetMetaDataAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/ResultSetMetaDataAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleConnection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleDriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleMetaData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleMetaData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleResultSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleResultSet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/SimpleStatement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/StatementAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/StatementAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ConnectionAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ConnectionAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/DriverAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/DriverAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteConnection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteConnectionImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteConnectionImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteDriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteDriverImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteDriverImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteMetaData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteMetaData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteMetaDataImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteMetaDataImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteResultSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteResultSet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteResultSetImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteResultSetImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteStatement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteStatementImpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/RemoteStatementImpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ResultSetAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ResultSetAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ResultSetMetaDataAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/ResultSetMetaDataAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleConnection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleDriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleDriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleMetaData.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleMetaData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleResultSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleResultSet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/SimpleStatement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/StatementAdapter.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/class-use/StatementAdapter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/remote/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/remote/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/SimpleDB.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/SimpleDB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/Startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/Startup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/class-use/SimpleDB.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/class-use/SimpleDB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/class-use/Startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/class-use/Startup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/server/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/server/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/BufferList.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/BufferList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/Transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/Transaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/class-use/BufferList.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/class-use/BufferList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/class-use/Transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/class-use/Transaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/ConcurrencyMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/ConcurrencyMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/LockAbortException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/LockAbortException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/LockTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/LockTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/ConcurrencyMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/ConcurrencyMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/LockAbortException.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/LockAbortException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/LockTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/class-use/LockTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/concurrency/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/CheckpointRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/CheckpointRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/CommitRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/CommitRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/LogRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/LogRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/LogRecordIterator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/LogRecordIterator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/RecoveryMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/RecoveryMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/RollbackRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/RollbackRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/SetIntRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/SetIntRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/SetStringRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/SetStringRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/StartRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/StartRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/CheckpointRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/CheckpointRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/CommitRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/CommitRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/LogRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/LogRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/LogRecordIterator.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/LogRecordIterator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/RecoveryMgr.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/RecoveryMgr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/RollbackRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/RollbackRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/SetIntRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/SetIntRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/SetStringRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/SetStringRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/StartRecord.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/class-use/StartRecord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/simpledb/tx/recovery/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javadoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpledb2.10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/simpledb2.10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/BasicBufferMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/BasicBufferMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/Buffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/BufferAbortException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/BufferAbortException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/PageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/PageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/file/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/file/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/file/FileMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/file/FileMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/file/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/file/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/BTPageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/BTPageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeDir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeDir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/BTreeLeaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/BTreePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/BTreePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/btree/DirEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/btree/DirEntry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/hash/HashIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/hash/HashIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/planner/IndexUpdatePlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/planner/IndexUpdatePlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/query/IndexJoinPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/query/IndexJoinPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/query/IndexJoinScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/query/IndexJoinScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/query/IndexSelectPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/query/IndexSelectPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/index/query/IndexSelectScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/index/query/IndexSelectScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/log/BasicLogRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/log/BasicLogRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/log/LogIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/log/LogIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/log/LogMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/log/LogMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/AggregationFn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/AggregationFn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/CountFn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/CountFn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/GroupByPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/GroupByPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/GroupByScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/GroupByScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/GroupValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/GroupValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/MaterializePlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/MaterializePlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/MaxFn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/MaxFn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/MergeJoinPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/MergeJoinPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/MergeJoinScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/MergeJoinScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/RecordComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/RecordComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/SortPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/SortPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/SortScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/SortScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/materialize/TempTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/materialize/TempTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/IndexInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/IndexInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/IndexMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/IndexMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/MetadataMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/MetadataMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/StatInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/StatInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/StatMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/StatMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/TableMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/TableMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/metadata/ViewMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/metadata/ViewMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/multibuffer/BufferNeeds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/multibuffer/BufferNeeds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/multibuffer/ChunkScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/multibuffer/ChunkScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/multibuffer/MultiBufferProductPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/multibuffer/MultiBufferProductPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/multibuffer/MultiBufferProductScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/multibuffer/MultiBufferProductScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/opt/HeuristicQueryPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/opt/HeuristicQueryPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/opt/TablePlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/opt/TablePlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/BadSyntaxException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/BadSyntaxException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/CreateIndexData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/CreateIndexData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/CreateTableData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/CreateTableData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/CreateViewData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/CreateViewData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/DeleteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/DeleteData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/InsertData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/InsertData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/Lexer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/ModifyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/ModifyData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/parse/QueryData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/parse/QueryData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/planner/BasicQueryPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/planner/BasicQueryPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/planner/BasicUpdatePlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/planner/BasicUpdatePlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/planner/Planner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/planner/Planner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/planner/QueryPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/planner/QueryPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/planner/UpdatePlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/planner/UpdatePlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/ConstantExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/ConstantExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/FieldNameExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/FieldNameExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/IntConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/IntConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Plan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Predicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/ProductPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/ProductPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/ProductScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/ProductScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/ProjectPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/ProjectPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/ProjectScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/ProjectScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Scan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Scan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/SelectPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/SelectPlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/SelectScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/SelectScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/StringConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/StringConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/TablePlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/TablePlan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/TableScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/TableScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/Term.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/Term.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/query/UpdateScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/query/UpdateScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/RID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/RID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/RecordFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/RecordFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/RecordFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/RecordFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/RecordPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/RecordPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/Schema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/Schema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/record/TableInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/record/TableInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/ConnectionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/ConnectionAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/DriverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/DriverAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteConnectionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteConnectionImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteDriverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteDriverImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteMetaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteMetaData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteMetaDataImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteMetaDataImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteResultSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteResultSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteResultSetImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteResultSetImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/RemoteStatementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/RemoteStatementImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/ResultSetAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/ResultSetAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/ResultSetMetaDataAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/ResultSetMetaDataAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/SimpleConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/SimpleConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/SimpleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/SimpleDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/SimpleMetaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/SimpleMetaData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/SimpleResultSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/SimpleResultSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/SimpleStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/SimpleStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/remote/StatementAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/remote/StatementAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/server/SimpleDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/server/SimpleDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/server/Startup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/server/Startup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/BufferList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/BufferList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/concurrency/ConcurrencyMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/concurrency/ConcurrencyMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/concurrency/LockAbortException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/concurrency/LockAbortException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/concurrency/LockTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/concurrency/LockTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/CheckpointRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/CheckpointRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/CommitRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/CommitRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/LogRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/LogRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/LogRecordIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/LogRecordIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/RecoveryMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/RecoveryMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/RollbackRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/RollbackRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/SetIntRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/SetIntRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/SetStringRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/SetStringRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/tx/recovery/StartRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/tx/recovery/StartRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/JPAStudentInfo/JPAStudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/JPAStudentInfo/JPAStudentInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/JPAStudentInfo/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/JPAStudentInfo/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/SQLInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/SQLInterpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/Servlet/ServletFindMajors.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/Servlet/ServletFindMajors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/Servlet/ServletFindMajorsInputForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/Servlet/ServletFindMajorsInputForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/Servlet/findmajorsinputform.html" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/Servlet/findmajorsinputform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/Servlet/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/Servlet/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/CourseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/CourseDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/DatabaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/DatabaseManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Dept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/DeptDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/DeptDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Enroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Enroll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/EnrollDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/EnrollDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Section.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/SectionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/SectionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/StudentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/StudentInfo/StudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/StudentInfo/StudentInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/GraduatingStudents.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/GraduatingStudents.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/XmlToHtml.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/XmlToHtml.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/XmlToNames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/XmlToNames.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/XmlToNested.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/XmlToNested.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/XmlToSql.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/XmlToSql.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/derby/XML/XmlToUnnested.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/derby/XML/XmlToUnnested.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentClient/simpledb/SQLInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/simpledb/SQLInterpreter.java" afterDir="false" />
-    </list>
+    <list default="true" id="692354c1-8f0b-4c73-9ac2-c703f94af1ae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -620,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state relative-caret-position="112">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -632,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studentClient/simpledb/TestSchema.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="192">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -730,30 +199,6 @@
               <item name="simpledb2.10" type="616d4139:PackageViewModuleNode" />
               <item name="simpledb" type="1f31426a:PackageElementNode" />
             </path>
-            <path>
-              <item name="Databases-Project1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="simpledb2.10" type="616d4139:PackageViewModuleNode" />
-              <item name="simpledb" type="1f31426a:PackageElementNode" />
-              <item name="buffer" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Databases-Project1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="simpledb2.10" type="616d4139:PackageViewModuleNode" />
-              <item name="simpledb" type="1f31426a:PackageElementNode" />
-              <item name="file" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Databases-Project1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="simpledb2.10" type="616d4139:PackageViewModuleNode" />
-              <item name="simpledb" type="1f31426a:PackageElementNode" />
-              <item name="opt" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Databases-Project1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="simpledb2.10" type="616d4139:PackageViewModuleNode" />
-              <item name="simpledb" type="1f31426a:PackageElementNode" />
-              <item name="record" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -782,6 +227,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -866,16 +314,23 @@
       <workItem from="1553875918952" duration="1660000" />
       <workItem from="1553883156384" duration="169000" />
       <workItem from="1553883557023" duration="49000" />
-      <workItem from="1553884210376" duration="1529000" />
+      <workItem from="1553884210376" duration="1894000" />
     </task>
+    <task id="LOCAL-00001" summary="weaponized refactoring">
+      <created>1553888328698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553888328698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23441000" />
+    <option name="totallyTimeSpent" value="23806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2181208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -894,7 +349,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -914,6 +369,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="weaponized refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="weaponized refactoring" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -972,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studentClient/simpledb/TestSchema.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="192">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1027,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
