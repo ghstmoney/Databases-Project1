@@ -64,7 +64,7 @@ public class AdvancedBufferMgr {
     int ChooseUnpinnedBuff(){
 
         if(freeList.isEmpty()){
-
+            return freeList.get(0); //This is used only to stop the error from being thrown need to be fixed when lru is implemented
         }
 
         else{
