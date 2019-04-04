@@ -23,6 +23,7 @@ public class Buffer {
     private int pins = 0;
     private int modifiedBy = -1;  // negative means not modified
     private int logSequenceNumber = -1; // negative means no corresponding log record
+    private int ID = 0;
 
 
     /**
@@ -120,6 +121,23 @@ public class Buffer {
      */
     public Block block() {
         return blk;
+    }
+
+
+    @Override
+    public String toString(){
+        String ID = "Buffer ID: " + this.ID;
+        String BlockInfo = "Buffer Block: " + this.blk.number() + ", " + this.blk.fileName();
+        String Pin = null;
+
+        if(this.pins > 0){
+            Pin = "This Buffer is pinned";
+        }
+        else{
+            Pin = "This Buffer is not pinned";
+        }
+
+        return ID + "\n" + BlockInfo + "\n" + Pin;
     }
 
     /**

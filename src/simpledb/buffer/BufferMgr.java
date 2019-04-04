@@ -114,6 +114,7 @@ public class BufferMgr {
         bufferMgr.flushAll(txnum);
     }
 
+
     /**
      * Returns the number of available (ie unpinned) buffers.
      *
