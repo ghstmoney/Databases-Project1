@@ -3,3 +3,4 @@
 .idea/workspace.xml
 *.xml
 bin/**/*.class
+*.class
