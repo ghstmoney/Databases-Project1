@@ -2,146 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de726b9e-51f0-4c72-9a49-37b9dda37ee4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ChangeMajor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/CreateStudentDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/FindMajors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SQLInterpreter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StudentMajor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StudentMajorNoServer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/TestSchema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/AdvancedBufferMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/BasicBufferMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/Buffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/BufferAbortException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/BufferMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/PageFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/file/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/file/FileMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/file/Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/BTPageFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/BTreeDir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/BTreeIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/BTreeLeaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/BTreePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/btree/DirEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/hash/HashIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/planner/IndexUpdatePlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/query/IndexJoinPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/query/IndexJoinScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/query/IndexSelectPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/index/query/IndexSelectScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/log/BasicLogRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/log/LogIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/log/LogMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/AggregationFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/CountFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/GroupByPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/GroupByScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/GroupValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/MaterializePlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/MaxFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/MergeJoinPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/MergeJoinScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/RecordComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/SortPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/SortScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/materialize/TempTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/IndexInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/IndexMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/MetadataMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/StatInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/StatMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/TableMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/metadata/ViewMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/multibuffer/BufferNeeds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/multibuffer/ChunkScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/multibuffer/MultiBufferProductPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/multibuffer/MultiBufferProductScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/opt/HeuristicQueryPlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/opt/TablePlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/BadSyntaxException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/CreateIndexData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/CreateTableData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/CreateViewData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/DeleteData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/InsertData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/Lexer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/ModifyData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/Parser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/parse/QueryData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/planner/BasicQueryPlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/planner/BasicUpdatePlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/planner/Planner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/planner/QueryPlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/planner/UpdatePlanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/ConstantExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Expression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/FieldNameExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/IntConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Plan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Predicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/ProductPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/ProductScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/ProjectPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/ProjectScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Scan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/SelectPlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/SelectScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/StringConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/TablePlan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/TableScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/Term.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/query/UpdateScan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/RID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/RecordFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/RecordFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/RecordPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/Schema$FieldInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/Schema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/record/TableInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/ConnectionAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/DriverAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteConnectionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteDriverImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteMetaData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteMetaDataImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteResultSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteResultSetImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/RemoteStatementImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/ResultSetAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/ResultSetMetaDataAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/SimpleConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/SimpleDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/SimpleMetaData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/SimpleResultSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/SimpleStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/remote/StatementAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/server/SimpleDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/server/Startup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/BufferList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/concurrency/ConcurrencyMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/concurrency/LockAbortException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/concurrency/LockTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/CheckpointRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/CommitRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/LogRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/LogRecordIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/RecoveryMgr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/RollbackRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/SetIntRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/SetStringRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/simpledb/tx/recovery/StartRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/AdvancedBufferMgr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/simpledb/buffer/AdvancedBufferMgr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/Buffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/simpledb/buffer/Buffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/simpledb/buffer/BufferMgr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/simpledb/buffer/BufferMgr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/simpledb/server/Startup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/simpledb/server/Startup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/Buffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpledb/server/Startup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpledb/server/Startup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentClient/simpledb/TestSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentClient/simpledb/Examples.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -152,39 +22,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+            <state relative-caret-position="264">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simpledb/server/Startup.java">
+        <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/Buffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="312">
+              <caret line="162" column="52" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="138" column="40" lean-forward="true" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+              <folding>
+                <element signature="e#4153#4154#0" expanded="true" />
+                <element signature="e#4197#4198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpledb/tx/BufferList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Buffer buff : bufferPool</find>
+      <find>available</find>
+      <find>avail</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -192,8 +87,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" />
         <option value="$PROJECT_DIR$/src/simpledb/server/Startup.java" />
+        <option value="$PROJECT_DIR$/src/simpledb/file/Page.java" />
+        <option value="$PROJECT_DIR$/studentClient/simpledb/Examples.java" />
+        <option value="$PROJECT_DIR$/src/simpledb/buffer/Buffer.java" />
+        <option value="$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java" />
+        <option value="$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java" />
       </list>
     </option>
   </component>
@@ -206,6 +105,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,19 +130,30 @@
               <item name="Databases-Project1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="simpledb" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="buffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Databases-Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Databases-Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpledb" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Databases-Project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Databases-Project1" type="462c0819:PsiDirectoryNode" />
               <item name="studentClient" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Databases-Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Databases-Project1" type="462c0819:PsiDirectoryNode" />
+              <item name="studentClient" type="462c0819:PsiDirectoryNode" />
+              <item name="simpledb" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,26 +207,27 @@
       <option name="presentableId" value="Default" />
       <updated>1554443278647</updated>
       <workItem from="1554443288823" duration="890000" />
+      <workItem from="1554477250023" duration="13785000" />
+      <workItem from="1554492197486" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3831000" />
+    <option name="totallyTimeSpent" value="19259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20671141" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21208054" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32707775" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -326,7 +239,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Structure" order="2" visible="true" weight="0.20536913" />
+      <window_info active="true" anchor="right" id="Structure" order="2" visible="true" weight="0.20536913" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
@@ -343,24 +256,175 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/file/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="103" column="29" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+          <folding>
+            <element signature="e#3509#3510#0" expanded="true" />
+            <element signature="e#3553#3554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/file/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="554" column="16" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="340" column="6" selection-start-line="340" selection-start-column="6" selection-end-line="340" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/BasicBufferMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/record/RecordFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="161" column="17" selection-start-line="161" selection-start-column="17" selection-end-line="161" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/metadata/MetadataMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/metadata/TableMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/metadata/ViewMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/server/SimpleDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpledb/server/Startup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="158">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/record/RecordPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/tx/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding>
+            <element signature="e#2802#2803#0" expanded="true" />
+            <element signature="e#2836#2837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/tx/BufferList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentClient/simpledb/Examples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="162" column="52" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/BufferMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-end-line="24" />
+        <state relative-caret-position="522">
+          <caret line="138" column="40" lean-forward="true" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+          <folding>
+            <element signature="e#4153#4154#0" expanded="true" />
+            <element signature="e#4197#4198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpledb/buffer/AdvancedBufferMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

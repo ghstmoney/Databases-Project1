@@ -21,7 +21,7 @@ import simpledb.file.*;
  */
 public class BufferMgr {
     private static final long MAX_TIME = 10000; // 10 seconds
-    private BasicBufferMgr bufferMgr;
+    private AdvancedBufferMgr bufferMgr;
 
     /**
      * Creates a new buffer manager having the specified
@@ -35,10 +35,11 @@ public class BufferMgr {
      * {@link simpledb.server.SimpleDB#initFileAndLogMgr(String)} or
      * is called first.
      *
-     * @param numbuffers the number of buffer slots to allocate
+     * @param numBuffers the number of buffer slots to allocate
      */
-    public BufferMgr(int numbuffers) {
-        bufferMgr = new BasicBufferMgr(numbuffers);
+    public BufferMgr(int numBuffers) {
+        bufferMgr = new AdvancedBufferMgr(numBuffers);
+        System.out.println(bufferMgr.toString());
     }
 
     /**
@@ -126,5 +127,17 @@ public class BufferMgr {
 
     private boolean waitingTooLong(long starttime) {
         return System.currentTimeMillis() - starttime > MAX_TIME;
+    }
+
+    /**
+     * CS4432-Project1: custom toString()
+     * @return string describing this buffermgr
+     */
+    @Override
+    public String toString() {
+        final StringBuffer sb = new StringBuffer("BufferMgr{");
+        sb.append(bufferMgr.toString());
+        sb.append('}');
+        return sb.toString();
     }
 }

@@ -2,7 +2,7 @@ import java.sql.*;
 import simpledb.remote.SimpleDriver;
 
 
-public class TestSchema {
+public class Examples {
     public static void main(String[] args){
         Connection conn = null;
 

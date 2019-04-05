@@ -3,6 +3,7 @@ package simpledb.buffer;
 import simpledb.server.SimpleDB;
 import simpledb.file.*;
 
+import java.security.SecureRandom;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -23,10 +24,14 @@ public class Buffer {
     private int pins = 0;
     private int modifiedBy = -1;  // negative means not modified
     private int logSequenceNumber = -1; // negative means no corresponding log record
-    private int ID = 0;
+    private int ID;
+    private long lastUsed = 0; // The last time the Buffer was accessed
 
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer,
+     * and assign it an ID
+     *
      * Creates a new buffer, wrapping a new
      * {@link simpledb.file.Page page}.
      * This constructor is called exclusively by the
@@ -41,9 +46,25 @@ public class Buffer {
      * is called first.
      */
     public Buffer() {
+        SecureRandom random = new SecureRandom();
+        int num = random.nextInt(100000);
+        String formatted = String.format("%05d", num);
+        this.ID = Integer.parseInt(formatted);
+        lastUsed = System.nanoTime();
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer,
+     * and gets buffer ID
+     * @return ID of buffer
+     */
+    public int getID(){
+        lastUsed = System.nanoTime();
+        return this.ID;
+    }
+
+    /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Returns the integer value at the specified offset of the
      * buffer's page.
      * If an integer was not stored at that location,
@@ -53,10 +74,12 @@ public class Buffer {
      * @return the integer value at that offset
      */
     public int getInt(int offset) {
+        lastUsed = System.nanoTime();
         return contents.getInt(offset);
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Returns the string value at the specified offset of the
      * buffer's page.
      * If a string was not stored at that location,
@@ -66,10 +89,12 @@ public class Buffer {
      * @return the string value at that offset
      */
     public String getString(int offset) {
+        lastUsed = System.nanoTime();
         return contents.getString(offset);
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Writes an integer to the specified offset of the
      * buffer's page.
      * This method assumes that the transaction has already
@@ -85,6 +110,7 @@ public class Buffer {
      * @param lsn    the LSN of the corresponding log record
      */
     public void setInt(int offset, int val, int txnum, int lsn) {
+        lastUsed = System.nanoTime();
         modifiedBy = txnum;
         if (lsn >= 0)
             logSequenceNumber = lsn;
@@ -92,6 +118,7 @@ public class Buffer {
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Writes a string to the specified offset of the
      * buffer's page.
      * This method assumes that the transaction has already
@@ -107,6 +134,7 @@ public class Buffer {
      * @param lsn    the LSN of the corresponding log record
      */
     public void setString(int offset, String val, int txnum, int lsn) {
+        lastUsed = System.nanoTime();
         modifiedBy = txnum;
         if (lsn >= 0)
             logSequenceNumber = lsn;
@@ -114,12 +142,14 @@ public class Buffer {
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Returns a reference to the disk block
      * that the buffer is pinned to.
      *
      * @return a reference to a disk block
      */
     public Block block() {
+        lastUsed = System.nanoTime();
         return blk;
     }
 
@@ -127,20 +157,14 @@ public class Buffer {
     @Override
     public String toString(){
         String ID = "Buffer ID: " + this.ID;
-        String BlockInfo = "Buffer Block: " + this.blk.number() + ", " + this.blk.fileName();
-        String Pin = null;
+        String BlockInfo = this.blk != null ? ("Buffer Block: " + this.blk.number() + ", " + this.blk.fileName()) : "null block";
 
-        if(this.pins > 0){
-            Pin = "This Buffer is pinned";
-        }
-        else{
-            Pin = "This Buffer is not pinned";
-        }
-
-        return ID + "\n" + BlockInfo + "\n" + Pin;
+        String pinned = (this.isPinned()) ? "This Buffer is pinned" : "This Buffer is not pinned";
+        return ID + "\t" + BlockInfo + "\t" + pinned;
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Writes the page to its disk block if the
      * page is dirty.
      * The method ensures that the corresponding log
@@ -148,6 +172,7 @@ public class Buffer {
      * the page to disk.
      */
     void flush() {
+        lastUsed = System.nanoTime();
         if (modifiedBy >= 0) {
             SimpleDB.logMgr().flush(logSequenceNumber);
             contents.write(blk);
@@ -156,30 +181,37 @@ public class Buffer {
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Increases the buffer's pin count.
      */
     void pin() {
+        lastUsed = System.nanoTime();
         pins++;
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Decreases the buffer's pin count.
      */
     void unpin() {
+        lastUsed = System.nanoTime();
         pins--;
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Returns true if the buffer is currently pinned
      * (that is, if it has a nonzero pin count).
      *
      * @return true if the buffer is pinned
      */
     boolean isPinned() {
+        lastUsed = System.nanoTime();
         return pins > 0;
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Returns true if the buffer is dirty
      * due to a modification by the specified transaction.
      *
@@ -187,10 +219,12 @@ public class Buffer {
      * @return true if the transaction modified the buffer
      */
     boolean isModifiedBy(int txnum) {
+        lastUsed = System.nanoTime();
         return txnum == modifiedBy;
     }
 
     /**
+     * CS4432-Project1: Update the last used time for this buffer
      * Reads the contents of the specified block into
      * the buffer's page.
      * If the buffer was dirty, then the contents
@@ -199,6 +233,7 @@ public class Buffer {
      * @param b a reference to the data block
      */
     void assignToBlock(Block b) {
+        lastUsed = System.nanoTime();
         flush();
         blk = b;
         contents.read(blk);
@@ -219,5 +254,20 @@ public class Buffer {
         fmtr.format(contents);
         blk = contents.append(filename);
         pins = 0;
+    }
+
+    /**
+     * CS4432-Project1: get the time this buffer was last used
+     * represents time in nanoseconds since unix epoch
+     */
+    public long getLastUsed(){
+        return lastUsed;
+    }
+    /**
+     * CS4432-Project1: true if the buffer is dirty
+     * @return true if buffer has been modified, false if not
+     */
+    public boolean isDirty() {
+        return modifiedBy != -1;
     }
 }
