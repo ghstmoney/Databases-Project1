@@ -1,7 +1,8 @@
 package simpledb.buffer;
 
 import simpledb.file.*;
-
+import java.util.Deque;
+import java.util.*;
 import java.util.HashMap;
 import java.util.ArrayList;
 
@@ -10,9 +11,11 @@ public class AdvancedBufferMgr {
     private Buffer[] bufferPool;
     private int numBuffs = 0;
     private int numAvailable = 0;
-    private ArrayList<Integer> freeList;
-    private int nextBuff = 0;
-    private HashMap<Block, Integer> bufferHash;
+    private ArrayList<Buffer> freeList;
+    private HashMap<Block, Buffer> bufferHash;
+    private static HashSet<Integer> buffHashSet;
+    private static Deque<Integer> buffDeque;
+    private int cacheCapacity;
 
 
     AdvancedBufferMgr(int numBuffs) {
@@ -24,10 +27,16 @@ public class AdvancedBufferMgr {
 
         //loop through the number of buffers that there will be, add them to the buffer pool then add them to the free list
         for (int i = 0; i < numBuffs; i++) {
-            bufferPool[i] = new Buffer();
-            freeList.add(i);
+            Buffer newBuff = new Buffer();
+            bufferPool[i] = newBuff;
+            freeList.add(newBuff);
             numAvailable++;
         }
+    }
+
+    @Override
+    public String toString(){
+        return "Number of buffers: " + this.numBuffs + "\n" + "Number of free buffers: " + this.freeList.size();
     }
 
     /**
@@ -38,27 +47,47 @@ public class AdvancedBufferMgr {
     synchronized void flushAll(int txnum) {
         for (Buffer buff : bufferPool) {
             if (buff.isModifiedBy(txnum)) {
-                // Add the index of the flushed buffers to the free list
+                // Add the flushed buffers to the free list
                 freeList.add(bufferHash.get(buff.block()));
                 buff.flush();
             }
         }
     }
 
-    void pin(Block blk) {
+    synchronized Buffer pin(Block blk) {
         //find an unpinned buffer
         //put the block into the buffer hashmap
-        int unpinnedBuffNum = chooseUnpinnedBuff();
 
-        //add the new block buffer combo to the hash map
-        bufferHash.put(blk, unpinnedBuffNum);
-        //pin the unpinned buffer
-        bufferPool[unpinnedBuffNum].pin();
-        //add the block to the buffer
-        bufferPool[unpinnedBuffNum].assignToBlock(blk);
-        //remove the free bufferNumber from the list
+        Buffer buff = findExistingBuffer(blk);
+
+        if(buff == null){
+            buff = chooseUnpinnedBuff();
+
+            if(buff == null){
+                return null;
+            }
+            buff.assignToBlock(blk);
+            bufferHash.put(blk, buff);
+        }
+
+        if(!buff.isPinned()){
+            numAvailable--;
+        }
+        buff.pin();
         freeList.remove(0);
+        return buff;
+    }
+
+    synchronized Buffer pinNew(String filename, PageFormatter fmtr) {
+        Buffer buff = chooseUnpinnedBuff();
+        if (buff == null){
+            return null;
+        }
+
+        buff.assignToNew(filename, fmtr);
         numAvailable--;
+        buff.pin();
+        return buff;
     }
 
     void unpin(Buffer buff) {
@@ -78,72 +107,61 @@ public class AdvancedBufferMgr {
         return numAvailable;
     }
 
-    int findBlock(Block blk) {
-        return bufferHash.getOrDefault(blk, 0);
-//        if (bufferHash.containsKey(blk)) {
-//            return bufferHash.get(blk);
-//        } else {
-//            return 0;
-//        }
+    Buffer findExistingBuffer(Block blk) {
+
+        if(bufferHash.containsKey(blk)){
+            return bufferHash.get(blk);
+        }
+
+        else{
+            return null;
+        }
     }
 
-    private int chooseUnpinnedBuff() {
+    private Buffer chooseUnpinnedBuff() {
         if (freeList.isEmpty()) {
-            return 0;
+            return null;
         } else {
             return freeList.get(0);
         }
     }
-/*
-https://www.geeksforgeeks.org/lru-cache-implementation/
-This is one of the LRU implementations that I found might work the best
-It uses Deque and a HashSet to look up references to indexes of buffers in constant time,
-and then Deque the actual index from the LinkedList Queue.
- */
-//    // store keys of cache
-//    static Deque<Integer> dq;
-//    // store references of key in cache
-//    static HashSet<Integer> map;
-//    //maximum capacity of cache
-//    static int csize;
-//
-//    LRUCache(int n)
-//    {
-//        dq=new LinkedList<>();
-//        map=new HashSet<>();
-//        csize=n;
-//    }
-//
-//    /* Refers key x with in the LRU cache */
-//    public void refer(int x)
-//    {
-//        if(!map.contains(x))
-//        {
-//            if(dq.size()==csize)
-//            {
-//                int last=dq.removeLast();
-//                map.remove(last);
-//            }
-//        }
-//        else
-//        {
-//            /* The found page may not be always the last element, even if it's an
-//               intermediate element that needs to be removed and added to the start
-//               of the Queue */
-//            int index =0 , i=0;
-//            Iterator<Integer> itr = dq.iterator();
-//            while(itr.hasNext())
-//            {
-//                if(itr.next()==x)
-//                {
-//                    index = i;
-//                    break;
-//                }
-//                i++;
-//            }
-//            dq.remove(index);
-//        }
-//        dq.push(x);
-//        map.add(x);
-//    }
+
+    void createNewCache(int capacity){
+
+        buffHashSet = new HashSet<>();
+        buffDeque = new LinkedList<>();
+        cacheCapacity = capacity;
+
+    }
+
+    public void refer(int x)
+    {
+        if(buffHashSet.contains(x) && buffDeque.size() == cacheCapacity)
+        {
+            buffHashSet.remove(buffDeque.removeLast());
+        }
+
+        else
+        {
+            int index =0 , i=0;
+            Iterator<Integer> itr = buffDeque.iterator();
+
+            while(itr.hasNext())
+            {
+                if(itr.next()==x)
+                {
+                    index = i;
+                    break;
+                }
+
+                i++;
+            }
+
+            buffDeque.remove(index);
+        }
+
+        buffDeque.push(x);
+        buffHashSet.add(x);
+
+    }
 }
