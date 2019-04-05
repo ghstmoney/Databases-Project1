@@ -7,8 +7,12 @@ import java.rmi.registry.*;
 
 public class Startup {
     public static void main(String args[]) throws Exception {
+        // macOS version (I'm assuming this is where it saves the DB folder
+        //File oldDB = new File("~/cs4432DB");
+        // Windows version
         File oldDB = new File("C:\\Users\\Frank\\cs4432DB");
         deleteDirectory(oldDB);
+        System.out.println("deleted old DB");
         // configure and initialize the database
         SimpleDB.init(args[0]);
 
@@ -26,7 +30,7 @@ public class Startup {
     /**
      * Deletes old database
      * @param directoryToBeDeleted File descriptor that points to the old database
-     * @return
+     * @return true when the directory has been deleted
      */
     private static boolean deleteDirectory(File directoryToBeDeleted) {
         File[] allContents = directoryToBeDeleted.listFiles();

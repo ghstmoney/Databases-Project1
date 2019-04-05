@@ -2,5 +2,5 @@
 .idea/dictionaries
 .idea/workspace.xml
 *.xml
-bin/**/*.class
+bin/
 *.class
